@@ -3,7 +3,7 @@
 This repository contains the source code for my personal portfolio. The site is designed to highlight my journey as a Computer Science student and my technical expertise in building intelligent systems.
 
 ## 🔗 Live Demo
-[Insert your GitHub Pages link here, e.g., https://rafkhan01.github.io/portfolio/]
+[https://rafkhan01.github.io/portfolio/portfolio.html]
 
 ## ✨ Key Features
 * **Dynamic UI:** Smooth scroll reveals, custom cursor interactions, and animated background blobs.
